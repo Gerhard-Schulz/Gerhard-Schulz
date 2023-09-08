@@ -38,8 +38,8 @@
 
 </p>
 
-<h1 align="center">GitHub map</h1>
-<h2>Personal repositories</h2>
+<h2 align="center">GitHub map</h2>
+<h3>Personal repositories</h3>
 
 + Windows Forms
   + [Russian Test](https://github.com/Gerhard-Schulz/RussianTest)
@@ -65,7 +65,7 @@
   + [Cat vs Fish game](https://github.com/Gerhard-Schulz/CatVSFish)
   + [Back-Track](https://github.com/Gerhard-Schulz/BackTrack)
 
-<h2>Nabla Lab.</h2>
+<h3>Nabla Lab.</h3>
 
 + ASP.NET Core
   + [:lock:NablaWeb](https://github.com/Leonid-Vizel/NablaWeb)
