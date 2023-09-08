@@ -13,9 +13,8 @@
 
 ### **You can find me at:**
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/valer1yaaa)
-[![VK](https://img.shields.io/badge/-VK-000?style=flat&logo=VK&logoColor=white)](https://vk.com/valer1yaaa)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/imvaler1ya)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Gerhard-Schulz)
+[![VK](https://img.shields.io/badge/-VK-000?style=flat&logo=VK&logoColor=white)](https://vk.com/e.maxudov)
 
 <p>
 
