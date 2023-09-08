@@ -20,7 +20,7 @@
 
   <img width="60%" align="right" alt="Maksudov Emil's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Gerhard-Schulz&count_private=true&hide=cpp,javascript,python&show_icons=true&hide_border=true&line_height=27&theme=dark&show_owner=true&include_all_commits=true" />
 
-### Program languages and Tools I use:<br><br>
+### Program languages and tools I use:<br><br>
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
