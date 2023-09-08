@@ -36,8 +36,6 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 
-</p>
-
 <h2 align="center">GitHub map</h2>
 <h3>Personal repositories</h3>
 
@@ -72,4 +70,4 @@
   + [:lock:Pharmacoviglance](https://github.com/Leonid-Vizel/Pharmacoviglance)
   + [:lock:PTLV Service](https://github.com/Gerhard-Schulz/KZM)
   + [WebAnimalPassport](https://github.com/Leonid-Vizel/WebAnimalPassport)
-
+</p>
