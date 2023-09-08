@@ -1,7 +1,6 @@
 ### Hello, I'm Emil (Student) 👋
 
 ### What can I do?
-
 - Application development in C#, WPF, Qt.
 - Understanding functional and object-oriented programming.
 - Development of web applications using ASP.NET MVC.
@@ -17,12 +16,10 @@
 <img width="60%" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gerhard-Schulz&hide_border=true&layout=compact&langs_count=16&theme=dark" />
 
 ### **You can find me at:**
-
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Gerhard-Schulz)
 [![VK](https://img.shields.io/badge/-VK-000?style=flat&logo=VK&logoColor=white)](https://vk.com/e.maxudov)
 
 ### Program languages and tools I use:<br><br>
-
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>
