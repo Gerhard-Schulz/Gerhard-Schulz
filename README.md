@@ -12,14 +12,14 @@
 - Analytics using PowerBI, VBA Excel, RapidMiner.
 
 <p>
-### You can find me at:
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Gerhard-Schulz)
-[![VK](https://img.shields.io/badge/-VK-000?style=flat&logo=VK&logoColor=white)](https://vk.com/e.maxudov)
-
 <img width="60%" align="right" src="https://streak-stats.demolab.com?user=Gerhard-Schulz&theme=dark&hide_border=true&border_radius=5&locale=en">
 <img width="60%" align="right" alt="Maksudov Emil's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gerhard-Schulz&count_private=true&hide=cpp,javascript,python&show_icons=true&hide_border=true&line_height=27&theme=dark&show_owner=true&include_all_commits=true" />
 <img width="60%" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gerhard-Schulz&hide_border=true&layout=compact&langs_count=16&theme=dark" />
+
+### **You can find me at:**
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Gerhard-Schulz)
+[![VK](https://img.shields.io/badge/-VK-000?style=flat&logo=VK&logoColor=white)](https://vk.com/e.maxudov)
 
 ### Program languages and tools I use:<br><br>
 
