@@ -18,7 +18,7 @@
 
 <p>
 <img width="60%" align="right" alt="Maksudov Emil's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gerhard-Schulz&count_private=true&hide=cpp,javascript,python&show_icons=true&hide_border=true&line_height=27&theme=dark&show_owner=true&include_all_commits=true" />
-<img width="60%" align="right" src="https://streak-stats-sigma-five.demolab.com?user=Gerhard-Schulz&theme=dark&hide_border=true&border_radius=10&locale=ru">
+<img width="60%" align="right" src="https://streak-stats.demolab.com?user=Gerhard-Schulz&theme=dark&hide_border=true&border_radius=10&locale=ru">
 <img width="60%" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gerhard-Schulz&layout=compact&langs_count=16&theme=dark" />
 
 ### Program languages and tools I use:<br><br>
