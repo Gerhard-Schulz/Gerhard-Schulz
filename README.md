@@ -12,7 +12,7 @@
 - Analytics using PowerBI, VBA Excel, RapidMiner.
 
 <p>
-### **You can find me at:**
+### You can find me at:
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Gerhard-Schulz)
 [![VK](https://img.shields.io/badge/-VK-000?style=flat&logo=VK&logoColor=white)](https://vk.com/e.maxudov)
