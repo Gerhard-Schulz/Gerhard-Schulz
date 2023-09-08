@@ -2,11 +2,12 @@
 
 ### What can I do?
 
-- Application development in C#.
+- Application development in C#, C++, QT.
 - Understanding functional and object-oriented programming.
+- Development of web applications using ASP.NET MVC.
 - Deployment on Linux servers based on Debian, Docker containerization.
 - Project management. Organization of other developers in the team and coordination. Administration of social networks. Communication with communities.
-- Development and creation of UI/UX, user-friendly and human interfaces. Prototyping a design in Figma.
+- Development and creation of UI/UX, user-friendly and human interfaces.
 - Database architecture design.
 - Building Business Processes (BPMN).
 - Analytics using PowerBI, VBA Excel, RapidMiner.
@@ -18,7 +19,7 @@
 
 <p>
 
-  <img width="60%" align="right" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=Gerhard-Schulz&count_private=true&hide=cpp,javascript,python&show_icons=true&hide_border=true&line_height=27&theme=dark&show_owner=true&include_all_commits=true" />
+  <img width="60%" align="right" alt="Maksudov Emil's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Gerhard-Schulz&count_private=true&hide=cpp,javascript,python&show_icons=true&hide_border=true&line_height=27&theme=dark&show_owner=true&include_all_commits=true" />
 
 ### Program languages and Tools I use:<br><br>
 
