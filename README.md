@@ -67,7 +67,7 @@
 
 + ASP.NET Core
   + [:lock:NablaWeb](https://github.com/Leonid-Vizel/NablaWeb)
-  + [:lock:Pharmacoviglance](https://github.com/Leonid-Vizel/Pharmacoviglance)
+  + [:lock:PVSystem](https://github.com/Leonid-Vizel/PVSystem)
   + [:lock:PTLV Service](https://github.com/Gerhard-Schulz/KZM)
   + [:lock:PDE Writing](https://github.com/Gerhard-Schulz/pde-writing.ru)
   + [WebAnimalPassport](https://github.com/Leonid-Vizel/WebAnimalPassport)
