@@ -1,6 +1,3 @@
-### Hello, I'm Emil (Student) 👋
-
-### What can I do?
 - Application development in C#, WPF, Qt.
 - Understanding functional and object-oriented programming.
 - Development of web applications using ASP.NET MVC.
